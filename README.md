@@ -22,6 +22,15 @@ Este conjunto de datos contiene información detallada sobre las personas que ap
 Para llevar a cabo este reto, se utilizaron las siguientes herramientas y tecnologias : 
 
 - **Power BI**: Se utilizó para la creacion de graficas que facilitaron la interpretacion de la informacion obtenida despues del proceso.
+- **Python**: Se utilizo python para la escritrura de las consultas sql de postgres
+- **Jupyter Notebooks**: Los Jupyter Notebooks se emplearon para documentar y ejecutar el código Python de manera interactiva, lo que facilita la exploración y el análisis de los datos.
+- **PostgreSQL**: Se utilizó PostgreSQL como base de datos para almacenar y gestionar el conjunto de datos.
 
 
-
+## Paso a Paso 
+1. Descargamos el siguiente repositorio  https://github.com/sebasdias777/data_engineer_workshop/
+2. Descargamos el dataset de candidates.
+3. Luego abrimos jupyter notebook.
+4. Buscamos el notebook dentro de los archivos del repositorios.
+5. Ejecutamos paso a paso.
+6. Abrimos PowerBi para poder ver las graficas.
