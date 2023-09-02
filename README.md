@@ -15,6 +15,13 @@ Este conjunto de datos contiene información detallada sobre las personas que ap
 - Seniority
 - Technology
 - Code challenge score
-- Technical interview  
+- Technical interview
+
+## Herramientas Utilizadas
+
+Para llevar a cabo este reto, se utilizaron las siguientes herramientas y tecnologias : 
+
+- **Power BI**: Se utilizó para la creacion de graficas que facilitaron la interpretacion de la informacion obtenida despues del proceso.
+
 
 
